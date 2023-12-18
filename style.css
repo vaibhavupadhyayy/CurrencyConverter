@@ -14,9 +14,10 @@ body {
 .container {
   background-color: #fff;
   padding: 2rem;
-  border-radius: 1rem;
+  border-radius: 3px;
   min-height: 45vh;
   width: 40vh;
+  box-shadow: 5px 4px 5px 5px rgb(42, 46, 36);
 }
 
 form {
